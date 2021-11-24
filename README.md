@@ -1,3 +1,7 @@
+Notebook link - https://colab.research.google.com/github/mayukbasu/Football-project-xG-model-and-Similar-Players/blob/main/Project_%28Player_similarities%29.ipynb
+
+
+
 # Football-xG-model-Similar-Players
 
 a)  xG tells us about the probability of a shot being scored. I’ve taken several features including angle, whether the shot was taken from the preferred foot, distance into account while building the model. Finally, I’ve used different classifiers in order to demonstrate the best model.
