@@ -1,6 +1,6 @@
-Notebook link - https://colab.research.google.com/drive/1ufRCQWs2uHXowahbGH7LCTZ9SCuw36s_
+Notebook link - Similar Players model - https://colab.research.google.com/drive/1ufRCQWs2uHXowahbGH7LCTZ9SCuw36s_
 
-https://colab.research.google.com/drive/1QRXnN38PUDVYXKNVGsVdhkLwbxkkSDPu
+xG model - https://colab.research.google.com/drive/1QRXnN38PUDVYXKNVGsVdhkLwbxkkSDPu
 
 
 
