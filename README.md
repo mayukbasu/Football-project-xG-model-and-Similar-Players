@@ -1,4 +1,4 @@
-Notebook link - https://colab.research.google.com/github/mayukbasu/Football-project-xG-model-and-Similar-Players/blob/main/Project_%28Player_similarities%29.ipynb
+Notebook link - https://colab.research.google.com/drive/1ufRCQWs2uHXowahbGH7LCTZ9SCuw36s_
 
 https://colab.research.google.com/drive/1QRXnN38PUDVYXKNVGsVdhkLwbxkkSDPu
 
