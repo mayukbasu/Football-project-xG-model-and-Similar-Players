@@ -1,6 +1,6 @@
 Notebook link - 
 
-Similar Players model - https://colab.research.google.com/drive/1ufRCQWs2uHXowahbGH7LCTZ9SCuw36s_
+Similar Players model -  https://colab.research.google.com/github/mayukbasu/Football-project-xG-model-and-Similar-Players/blob/main/Project_(Similar_Players).ipynb
 
 xG model - https://colab.research.google.com/drive/1QRXnN38PUDVYXKNVGsVdhkLwbxkkSDPu
 
